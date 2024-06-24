@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kransionst.github.io/sitemap
+Sitemap: https://kransionst.github.io/app/sitemap
+Sitemap: https://kransionst.github.io/assets/sitemap
+Sitemap: https://kransionst.github.io/css/sitemap
+Sitemap: https://kransionst.github.io/includes/sitemap
+Sitemap: https://kransionst.github.io/item/sitemap
+Sitemap: https://kransionst.github.io/src/sitemap
